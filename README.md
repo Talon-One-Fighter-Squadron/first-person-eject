@@ -7,7 +7,7 @@ By default the game follows the ejection seat / pilot in a 3rd-person orbit view
 ## Install (quick)
 
 1. Install **BepInEx 5** for Nuclear Option (if you don’t already have it).
-2. Download/build this mod to get `NO_EjectFirstPerson.dll`.
+2. Download this mod to get `NO_EjectFirstPerson.dll`.
 3. Copy `NO_EjectFirstPerson.dll` into:
 
 ```
@@ -15,15 +15,6 @@ By default the game follows the ejection seat / pilot in a 3rd-person orbit view
 ```
 
 4. Launch the game.
-
-## Build + auto-install (recommended)
-
-1. Install the .NET SDK (so `dotnet` works in a terminal).
-2. Run:
-
-```
-build-and-install.bat
-```
 
 It will try to auto-detect your Steam install and copy the DLL into `BepInEx\plugins`.
 
