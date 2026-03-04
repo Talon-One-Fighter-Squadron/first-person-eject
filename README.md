@@ -8,7 +8,7 @@ By default the game follows the ejection seat / pilot in a 3rd-person orbit view
 
 1. Install **BepInEx 5** for Nuclear Option (if you don’t already have it).
 2. Download this mod to get `NO_EjectFirstPerson.dll`.
-3. Copy `NO_EjectFirstPerson.dll` into:
+3. Extract and copy the whole mod folder to plugins folder path below
 
 ```
 ...\Nuclear Option\BepInEx\plugins\
